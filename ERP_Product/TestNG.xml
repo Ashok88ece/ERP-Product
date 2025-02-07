@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="ERP Product">
+
+<test name ="ERP Product Applications">
+
+<parameter name="browser" value="chrome"/>
+
+<classes>
+
+<class name="com.erpproduct.testCases.TC_LoginPage_01"/> 
+
+</classes>
+
+
+</test>
+
+
+
+</suite>
